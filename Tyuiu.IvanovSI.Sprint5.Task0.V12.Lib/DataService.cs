@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint5;
 using System.IO;
-namespace Tyuiu.IvanovSI.Sprint5.Task5.V12.Lib
+
+namespace Tyuiu.IvanovSI.Sprint5.Task0.V12.Lib
 {
     public class DataService : ISprint5Task0V12
     {

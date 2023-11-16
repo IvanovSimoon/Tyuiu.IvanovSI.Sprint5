@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.IvanovSI.Sprint5.Task5.V12.Lib;
+using Tyuiu.IvanovSI.Sprint5.Task0.V12.Lib;
 using System.IO;
-namespace Tyuiu.IvanovSI.Sprint5.Task5.V12
+namespace Tyuiu.IvanovSI.Sprint5.Task0.V12
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
             DataService ds = new DataService();
 
             Console.Title = "Спринт #5 | Выполнил: Иванов С. И. | РПСб-23-1";
@@ -31,7 +30,7 @@ namespace Tyuiu.IvanovSI.Sprint5.Task5.V12
             Console.WriteLine("****************************************************************************");
 
             int x = 3;
-            
+
             Console.WriteLine();
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                               *");
