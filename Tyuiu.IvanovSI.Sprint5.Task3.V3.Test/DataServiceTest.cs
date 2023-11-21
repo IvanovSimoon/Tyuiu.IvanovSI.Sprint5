@@ -10,7 +10,7 @@ namespace Tyuiu.IvanovSI.Sprint5.Task3.V3.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\seemoon\source\repos\Tyuiu.IvanovSI.Sprint5\Tyuiu.IvanovSI.Sprint5.Task5.V12\bin\Debug\OutPutFileTask3.bin";
+            string path = @"C:\Users\seemoon\source\repos\Tyuiu.IvanovSI.Sprint5\Tyuiu.IvanovSI.Sprint5.Task3.V3\bin\Debug\OutPutFileTask3.bin";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
