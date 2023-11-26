@@ -29,7 +29,7 @@ namespace Tyuiu.IvanovSI.Sprint5.Task7.V5
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
             Console.WriteLine("****************************************************************************");
 
-            string path = $@"C:\DataSprint5\InPutDataFileTask7V5s.txt";
+            string path = $@"C:\DataSprint5\InPutDataFileTask7V5.txt";
             string pathsave = $@"C:\DataSprint5\OutPutDataFileTask7V5.txt";
             Console.WriteLine("Данные в файле: " + path);
 
